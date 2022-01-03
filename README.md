@@ -10,7 +10,7 @@ About me:
 - ⚡ Fun fact: I'm percussionist!
 
 <div>
-  <a href="https://github.com/mluizarodrigues">
+  <a href="https://github.com/maria-luiza-rodrigues-ti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizarodrigues&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizarodrigues&layout=compact&langs_count=7&theme=omni"/>
 </div>
@@ -31,6 +31,6 @@ About me:
   <a href = "mailto:marialuiza.r.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/m-luiza-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mluizarodrigues/mluizarodrigues/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maria-luiza-rodrigues-ti/mluizarodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
