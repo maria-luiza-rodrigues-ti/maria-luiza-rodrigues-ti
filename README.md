@@ -11,8 +11,8 @@ About me:
 
 <div>
   <a href="https://github.com/maria-luiza-rodrigues-ti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mluizarodrigues&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mluizarodrigues&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-luiza-rodrigues-ti&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-luiza-rodrigues-ti&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
   
