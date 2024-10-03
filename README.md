@@ -2,9 +2,9 @@
 
 About me:
 
-- 👩🏼‍🎓 I graduate in Civil Engineering
+- 👩🏼‍🎓 I graduating in ADS
 - 🔭 I pretend to work on front-end
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning ReactJS and NextJS
 - 📫 How to reach me: marialuiza.r.eng@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm percussionist!
