@@ -2,7 +2,7 @@
 
 About me:
 
-- 👩🏼‍🎓 I graduating in ADS
+- 👩🏼‍🎓 I graduating in Software Engineering
 - 🔭 I pretend to work on front-end
 - 🌱 I’m currently learning ReactJS and NextJS
 - 📫 How to reach me: marialuiza.r.eng@gmail.com
