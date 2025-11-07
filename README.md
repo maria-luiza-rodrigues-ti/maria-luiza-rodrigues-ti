@@ -3,8 +3,8 @@
 About me:
 
 - 👩🏼‍🎓 I graduating in Software Engineering
-- 🔭 I pretend to work on front-end
-- 🌱 I’m currently learning ReactJS and NextJS
+- 🔭 I'm working as front-end developer
+- 🌱 I’m currently learning React Router (Remix) and NextJS
 - 📫 How to reach me: marialuiza.r.eng@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm percussionist!
